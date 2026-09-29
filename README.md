@@ -46,3 +46,4 @@ hr_analytics/
 ├── EDA_HR_Analytics.ipynb    # Notebook com a análise exploratória
 ├── Power BI                   # Dashboard de People Analytics
 ├── README.md                  # Documentação do projeto
+``
