@@ -41,9 +41,14 @@ O projeto realizou:
 ## Estrutura do projeto
 
 ```text
-hr_analytics/
 │
-├── EDA_HR_Analytics.ipynb    # Notebook com a análise exploratória
-├── Power BI                   # Dashboard de People Analytics
+├── data/
+│   ├── EducationLevel.csv
+│   ├── Employee.csv
+│   ├── PerformanceRating.csv
+│   ├── RatingLevel.csv
+│   └── SatisfiedLevel.csv
+│
+├── EDA_HR_Analytics.ipynb    # Análise exploratória
+├── hr analytics.pbix          # Dashboard de People Analytics
 ├── README.md                  # Documentação do projeto
-``
